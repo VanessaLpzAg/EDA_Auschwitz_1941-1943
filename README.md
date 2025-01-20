@@ -1,3 +1,4 @@
+
 # README: EDA_Auschwitz_1941-1943.
 
 ## 1. Introducción.
@@ -64,4 +65,7 @@ Se espera que el análisis proporcione información útil sobre las tendencias y
 ## 7. Consideraciones Éticas.
 
 Este análisis se realiza con el máximo respeto hacia las víctimas del Holocausto. Los resultados tienen como único objetivo el estudio histórico y estadístico, y se utilizarán de manera responsable y ética para preservar la memoria de las personas afectadas por este trágico evento histórico.
+
+<image src="img/Foto.jpg" width="500" height="400">
+
 
